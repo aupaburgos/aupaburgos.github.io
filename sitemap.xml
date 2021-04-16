@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aupaburgos.com/tags/1-rfef/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aupaburgos.com/categories/1-rfef/</loc>
+    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://aupaburgos.com/noticias/20210416_asi-sera-la-nueva-primera-division-rfef/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,9 +20,6 @@
     <loc>https://aupaburgos.com/tags/equipo/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aupaburgos.com/categories/equipo/</loc>
-    <lastmod>2021-04-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aupaburgos.com/noticias/</loc>
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +30,9 @@
     <lastmod>2021-04-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aupaburgos.com/noticias/20210412_el-burgos-no-da-opcion-y-vence-a-unionistas/</loc>
+    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aupaburgos.com/categories/equipo/</loc>
     <lastmod>2021-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aupaburgos.com/noticias/20210405_empate-del-burgos-en-zamora/</loc>
